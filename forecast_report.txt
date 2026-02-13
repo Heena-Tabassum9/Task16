@@ -1,0 +1,3 @@
+MAE: 29350179.994466435
+MAPE: 15.153014058035627
+Model Used: Exponential Smoothing
